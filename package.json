@@ -1,0 +1,19 @@
+{
+  "name": "nuah-test-backend",
+  "version": "1.0.0",
+  "description": "This is a test for Nuah",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugoquispepacaje/backend-nuah.git"
+  },
+  "author": "Hugo Quispe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugoquispepacaje/backend-nuah/issues"
+  },
+  "homepage": "https://github.com/hugoquispepacaje/backend-nuah#readme"
+}
