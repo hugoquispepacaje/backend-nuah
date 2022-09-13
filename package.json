@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This is a test for Nuah",
   "main": "app.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/hugoquispepacaje/backend-nuah/issues"
   },
-  "homepage": "https://github.com/hugoquispepacaje/backend-nuah#readme"
+  "homepage": "https://github.com/hugoquispepacaje/backend-nuah#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.0",
+    "morgan": "^1.10.0"
+  }
 }
